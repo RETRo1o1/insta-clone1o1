@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">217399202179-acn1t782ika6b39d8cuu6ikobu2jcvuv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">217399202179</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtofjJM-B5eZIB9YhwzxARvA85v9QC8Xk</string>
+    <string name="google_app_id" translatable="false">1:217399202179:android:69e97b320f3ad786b326b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtofjJM-B5eZIB9YhwzxARvA85v9QC8Xk</string>
+    <string name="google_storage_bucket" translatable="false">instaclone1o1.appspot.com</string>
+    <string name="project_id" translatable="false">instaclone1o1</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\1O1\\StudioProjects\\insta_clone\\build\\image_picker\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\1O1\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\1O1\\StudioProjects\\insta_clone\\build\\image_picker\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\1O1\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\1O1\\StudioProjects\\insta_clone\\build\\image_picker\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\1O1\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\1O1\\StudioProjects\\insta_clone\\build\\image_picker\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\1O1\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
